@@ -222,6 +222,7 @@
 
         // 初始化
         function init(){
+            console.log('tuto log')
             fn = $scope.ngImgMapFns;
             m  = $scope.m = $scope.ngModel;
 
